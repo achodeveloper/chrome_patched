@@ -24,7 +24,7 @@ Lazarus.prefs = {
   "expireFormsInterval": 10, 
   "expireFormsUnit": 86400, //days
   
-  "syncServer": "http://lazarus.interclue.com/sync",
+  "syncServer": "https://lazarus.interclue.com/sync",
   
   "syncEnabled": false,
   "syncEmail": "",
